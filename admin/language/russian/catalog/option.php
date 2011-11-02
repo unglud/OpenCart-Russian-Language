@@ -15,6 +15,8 @@ $_['text_file']           = 'File';
 $_['text_date']           = 'Date';
 $_['text_datetime']       = 'Date &amp; Time';
 $_['text_time']           = 'Time';
+$_['text_browse']            = 'Обзор';
+$_['text_clear']             = 'Удалить';
 
 // Column
 $_['column_name']         = 'Название параметра';

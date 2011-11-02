@@ -7,6 +7,13 @@ $_['text_success']            = 'Магазины обновлены!';
 $_['text_image_manager']      = 'Менеджер изображений';
 $_['text_default']            = '&nbsp;<strong>(По умолчанию)</strong>';
 $_['text_edit_store']         = 'Редактировать магазин:';
+$_['text_browse']            = 'Обзор';
+$_['text_clear']             = 'Удалить';
+
+// Column
+$_['column_name']              = 'Название магазина';
+$_['column_url']	           = 'URL магазина';
+$_['column_action']            = 'Действие';
 
 // Entry
 $_['entry_name']              = 'Название магазина:';

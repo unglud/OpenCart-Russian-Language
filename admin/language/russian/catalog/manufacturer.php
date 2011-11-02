@@ -6,6 +6,8 @@ $_['heading_title']      = 'Производители';
 $_['text_success']       = 'Список производителей обновлен!';
 $_['text_default']       = 'Основной магазин';
 $_['text_image_manager'] = 'Менеджер изображений';
+$_['text_browse']            = 'Обзор';
+$_['text_clear']             = 'Удалить';
 
 // Column
 $_['column_name']        = 'Производитель';
@@ -13,6 +15,7 @@ $_['column_sort_order']  = 'Порядок сортировки';
 $_['column_action']      = 'Действие';
 
 // Entry
+$_['entry_description'] = 'Описание:';
 $_['entry_name']         = 'Производитель:';
 $_['entry_store']        = 'Магазины:';
 $_['entry_keyword']      = 'Псевдоним:';

@@ -4,6 +4,7 @@ $_['heading_title']     = 'Поиск';
  
 // Text
 $_['text_search']       = 'Товары, соответствующие критериям поиска';
+$_['text_sub_category'] = 'Искать в подкатегориях';
 $_['text_keyword']      = 'Поиск...';
 $_['text_category']     = 'Все категории';
 $_['text_critea']       = 'Критерии поиска:';
@@ -20,6 +21,6 @@ $_['text_rating_desc']  = 'Высокому рейтингу';
 
 // Entry
 $_['entry_search']      = 'Поиск:';
-$_['entry_description'] = 'Поиск по описанию';
+$_['entry_description'] = 'Так же искать в тексте описания';
 $_['entry_model']       = 'Поиск по модели';
 ?>

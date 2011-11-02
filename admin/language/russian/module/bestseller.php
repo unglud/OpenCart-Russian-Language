@@ -9,6 +9,8 @@ $_['text_left']        = 'Слева';
 $_['text_right']       = 'Справа';
 
 // Entry
+$_['entry_image']         = 'Изображение (Ш x В):';
+$_['entry_layout']        = 'Шаблон:';
 $_['entry_limit']      = 'Лимит:';
 $_['entry_position']   = 'Позиция:';
 $_['entry_status']     = 'Статус:';

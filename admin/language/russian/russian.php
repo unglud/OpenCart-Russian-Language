@@ -32,6 +32,7 @@ $_['text_home']               = 'Главная';
 // Button
 $_['button_add_address']      = 'Добавить адрес';
 $_['button_add_attribute']    = 'Добавить атрибут';
+$_['button_add_banner']       = 'Добавить баннер';
 $_['button_add_module']       = 'Добавить модуль';
 $_['button_add_product']      = 'Добавить';
 $_['button_add_reward']       = 'Добавить бонусные баллы';
