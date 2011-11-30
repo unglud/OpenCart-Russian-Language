@@ -53,7 +53,7 @@ $_['entry_postcode']                 = 'Индекс:';
 $_['entry_city']                     = 'Город:';
 $_['entry_country']                  = 'Страна:';
 $_['entry_zone']                     = 'Область / регион:';
-$_['entry_newsletter']               = 'I wish to suscribe to the %s newsletter.';
+$_['entry_newsletter']               = 'Я хочу подписаться на новости %s.';
 $_['entry_shipping'] 	             = 'Адрес доставки совпадает с адресом выставления счета.';
 
 // Error
