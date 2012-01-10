@@ -1,14 +1,4 @@
 <?php
-// Heading 
-$_['heading_title'] = 'Использовать скидочный купон';
-
 // Text
-$_['text_coupon']   = 'Купон (%s):';
-$_['text_success']  = 'Ваш купон применен!';
-
-// Entry
-$_['entry_coupon']  = 'Введите код купона:';
-
-// Error
-$_['error_coupon']  = 'Ошибка! Купон не действителен, истек или уже использован!';
+$_['text_coupon'] = 'Coupon(%s)';
 ?>

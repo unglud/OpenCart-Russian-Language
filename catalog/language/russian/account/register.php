@@ -17,7 +17,7 @@ $_['entry_firstname']      = 'Имя:';
 $_['entry_lastname']       = 'Фамилия:';
 $_['entry_email']          = 'Email:';
 $_['entry_telephone']      = 'Телефон:';
-$_['entry_fax']            = 'Fax:';
+$_['entry_fax']            = 'Факс:';
 $_['entry_company']        = 'Компания:';
 $_['entry_address_1']      = 'Адрес:';
 $_['entry_address_2']      = 'Адрес 2:';
@@ -43,4 +43,10 @@ $_['error_postcode']       = 'Индекс должен содержать не 
 $_['error_country']        = 'Пожалуйста, выберите страну!';
 $_['error_zone']           = 'Пожалуйста, выберите область или регион!';
 $_['error_agree']          = 'Ошибка: Вы должны согласиться с %s!';
+
+//opticcity
+$_['text_newsletter']      = 'Подписаться на новостную рассылку';
+$_['text_agree']           = 'Я прочел и согласен с разделом <a class="fancybox" href="%s" alt="%s"><b>%s</b></a>';
+$_['error_agree']          = 'Ошибка: Вы должны согласиться с разделом %s!';
+
 ?>
