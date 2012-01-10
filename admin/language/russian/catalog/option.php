@@ -4,17 +4,19 @@ $_['heading_title']       = 'Параметры';
 
 // Text
 $_['text_success']        = 'Параметры сохранены!';
-$_['text_choose']         = 'Choose';
-$_['text_select']         = 'Select';
-$_['text_radio']          = 'Radio';
-$_['text_checkbox']       = 'Checkbox';
-$_['text_input']          = 'Input';
-$_['text_text']           = 'Text';
-$_['text_textarea']       = 'Textarea';
-$_['text_file']           = 'File';
-$_['text_date']           = 'Date';
-$_['text_datetime']       = 'Date &amp; Time';
-$_['text_time']           = 'Time';
+$_['text_choose']         = 'Выбор';
+$_['text_select']         = 'Выпадающий список';
+$_['text_radio']          = 'Переключатель';
+$_['text_checkbox']       = 'Флажок';
+$_['text_image']          = 'Изображение';
+$_['text_input']          = 'Ввод';
+$_['text_text']           = 'Текстовое поле';
+$_['text_textarea']       = 'Большое текстовое поле';
+$_['text_file']           = 'Файл';
+$_['text_date']           = 'Дата';
+$_['text_datetime']       = 'Дата и время';
+$_['text_time']           = 'Время';
+$_['text_image_manager']  = 'Менеджер изображений';
 $_['text_browse']            = 'Обзор';
 $_['text_clear']             = 'Удалить';
 
@@ -27,6 +29,7 @@ $_['column_action']       = 'Действие';
 $_['entry_name']         = 'Название параметра:';
 $_['entry_type']         = 'Тип:';
 $_['entry_value']        = 'Значение параметра:';
+$_['entry_image']        = 'Изображение:';
 $_['entry_sort_order']   = 'Сортировка:';
 
 // Error

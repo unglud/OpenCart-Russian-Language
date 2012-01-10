@@ -1,26 +1,26 @@
 <?php
 // Heading
-$_['heading_title']     = 'Layouts';
+$_['heading_title']     = 'Шаблоны';
 
 // Text
-$_['text_success']      = 'Success: You have modified layouts!';
-$_['text_default']      = 'Default';
+$_['text_success']      = 'Настройки изменены!';
+$_['text_default']      = 'По умолчанию';
 
 // Column
-$_['column_name']       = 'Layout Name';
-$_['column_action']     = 'Action';
+$_['column_name']       = 'Название шаблона';
+$_['column_action']     = 'Действие';
 
 // Entry
-$_['entry_name']        = 'Layout Name:';
-$_['entry_store']       = 'Store:';
-$_['entry_route']       = 'Route:';
+$_['entry_name']        = 'Название шаблона:';
+$_['entry_store']       = 'Магазин:';
+$_['entry_route']       = 'Путь:<br /><span class="help">Например, "product/category"</span>';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify layouts!';
-$_['error_name']        = 'Layout Name must be between 3 and 64 characters!';
-$_['error_default']     = 'Warning: This layout cannot be deleted as it is currently assigned as the default store layout!';
-$_['error_store']       = 'Warning: This layout cannot be deleted as it is currently assigned to %s stores!';
-$_['error_product']     = 'Warning: This layout cannot be deleted as it is currently assigned to %s products!';
-$_['error_category']    = 'Warning: This layout cannot be deleted as it is currently assigned to %s categories!';
-$_['error_information'] = 'Warning: This layout cannot be deleted as it is currently assigned to %s information pages!';
+$_['error_permission']  = 'Внимание: У вас недостаточно прав для изменения настроек!';
+$_['error_name']        = 'Название шаблона не должно быть короче 3х букв!';
+$_['error_default']     = 'Внимание: Этот шаблон не может быть удален, так как используется по умолчанию.!';
+$_['error_store']       = 'Внимание: Этот шаблон не может быть удален, так как используется в %s магазине!';
+$_['error_product']     = 'Внимание:  Этот шаблон не может быть удален, так как используется в %s продуктах!';
+$_['error_category']    = 'Внимание:  Этот шаблон не может быть удален, так как используется в %s категориях!';
+$_['error_information'] = 'Внимание:  Этот шаблон не может быть удален, так как используется в %s информационных страницах!';
 ?>
