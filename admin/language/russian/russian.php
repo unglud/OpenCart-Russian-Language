@@ -6,13 +6,11 @@ $_['date_format_short']       = 'd.m.Y';
 $_['date_format_long']        = 'l dS F Y';
 $_['time_format']             = 'h:i:s A';
 $_['decimal_point']           = '.';
-$_['thousand_point']          = ',';
+$_['thousand_point']          = ' ';
 
 // Text
 $_['text_yes']                = 'Да';
 $_['text_no']                 = 'Нет';
-$_['text_plus']               = '+';
-$_['text_minus']              = '-';
 $_['text_enabled']            = 'Включено';
 $_['text_disabled']           = 'Отключено';
 $_['text_none']               = ' --- Не выбрано --- ';
@@ -30,13 +28,6 @@ $_['text_view']               = 'Просмотр';
 $_['text_home']               = 'Главная';
 
 // Button
-$_['button_add_address']      = 'Добавить адрес';
-$_['button_add_attribute']    = 'Добавить атрибут';
-$_['button_add_banner']       = 'Добавить баннер';
-$_['button_add_module']       = 'Добавить модуль';
-$_['button_add_product']      = 'Добавить';
-$_['button_add_reward']       = 'Добавить бонусные баллы';
-$_['button_add_transaction']  = 'Добавить покупку';
 $_['button_insert']           = 'Добавить';
 $_['button_delete']           = 'Удалить';
 $_['button_save']             = 'Сохранить';
@@ -51,47 +42,60 @@ $_['button_back']             = 'Назад';
 $_['button_remove']           = 'Удалить';
 $_['button_backup']           = 'Бэкап';
 $_['button_restore']          = 'Восстановить';
+$_['button_upload']           = 'Загрузить';
 $_['button_invoice']          = 'Счет-фактура';
-$_['button_invoices']         = 'Счет-фактура';
+$_['button_add_address']      = 'Добавить адрес';
+$_['button_add_attribute']    = 'Добавить атрибут';
+$_['button_add_banner']       = 'Добавить баннер';
+$_['button_add_product']      = 'Добавить продукт';
 $_['button_add_option']       = 'Добавить опцию';
 $_['button_add_option_value'] = 'Добавить значение опции';
 $_['button_add_discount']     = 'Добавить скидку';
 $_['button_add_special']      = 'Добавить специальное';
 $_['button_add_image']        = 'Добавить изображение';
 $_['button_add_geo_zone']     = 'Добавить географическую зону';
-$_['button_add_rate']         = 'Добавить налоговую ставку';
 $_['button_add_history']      = 'Добавить историю заказа';
+$_['button_add_transaction']  = 'Добавить покупку';
+$_['button_add_total']        = 'Добавить сумму';
+$_['button_add_reward']       = 'Добавить бонусные баллы';
+$_['button_add_route']        = 'Добавить путь';
+$_['button_add_rule' ]        = 'Добавить правило';
+$_['button_add_module']       = 'Добавить модуль';
+$_['button_add_link']         = 'Добавить ссылку';
 $_['button_approve']          = 'Активировать';
 $_['button_reset']            = 'Сброс';
-$_['button_generate']         = 'Сгенерировать';
-
 
 // Tab
+$_['tab_address']             = 'Адрес';
 $_['tab_admin']               = 'Админ';
 $_['tab_attribute']           = 'Атрибуты';
+$_['tab_coupon_history']      = 'История купонов';
+$_['tab_customer']            = 'Данные покупателя';
 $_['tab_data']                = 'Данные';
 $_['tab_design']              = 'Дизайн';
 $_['tab_discount']            = 'Скидка на кол-во';
 $_['tab_general']             = 'Общие';
-$_['tab_image']               = 'Изображения';
+$_['tab_fraud']               = 'Мошенничество';
 $_['tab_ip']                 = 'IP адреса';
-$_['tab_module']              = 'Модуль';
+$_['tab_links']               = 'Ссылки';
+$_['tab_image']               = 'Изображения';
 $_['tab_option']              = 'Параметры';
-$_['tab_order_history']       = 'История заказа';
-$_['tab_return']              = 'Детали возврата';
 $_['tab_server']              = 'Сервер';
 $_['tab_store']               = 'Магазин';
 $_['tab_special']             = 'Скидка';
 $_['tab_local']               = 'Размещение';
 $_['tab_mail']                = 'Почта';
+$_['tab_module']              = 'Модуль';
 $_['tab_order']               = 'Детали заказа';
-$_['tab_history']             = 'История заказа';
-$_['tab_product']             = 'Товары';
-$_['tab_shipping']            = 'Адрес доставки';
+$_['tab_order_history']       = 'История заказа';
 $_['tab_payment']             = 'Адрес оплаты';
+$_['tab_product']             = 'Товары';
+$_['tab_return']              = 'Детали возврата';
+$_['tab_return_history']      = 'История возвратов';
 $_['tab_reward']              = 'Награды';
+$_['tab_shipping']            = 'Адрес доставки';
 $_['tab_transaction']         = 'Покупки';
-
+$_['tab_voucher_history']     = 'История сертификатов';
 
 // Error
 $_['error_upload_1']          = 'Размер загружаемого файла превышает максимальный размер, указанный в php.ini!';
