@@ -14,8 +14,8 @@ $_['column_action']        = 'Действие';
 
 // Entry
 $_['entry_title']          = 'Название валюты:';
-$_['entry_code']           = 'Код:<br /><span class="help">Не изменяется, если валюта установлена по умолчанию.</span>';
-$_['entry_value']          = 'Значение:<br /><span class="help">Установите на 1.00000 если это валюта по умолчанию.</span>';
+$_['entry_code']           = 'Код:<br /><span class="help">Не изменяйте, если эта валюта установлена по умолчанию. Код должен быть указан в соответствии с <a href="http://www.xe.com/iso4217.php" target="_blank">ISO code</a>.</span>';
+$_['entry_value']          = 'Значение:<br /><span class="help">Установите 1.00000 если это валюта по умолчанию.</span>';
 $_['entry_symbol_left']    = 'Символ слева:';
 $_['entry_symbol_right']   = 'Символ справа:';
 $_['entry_decimal_place']  = 'Количество знаков после запятой:';
