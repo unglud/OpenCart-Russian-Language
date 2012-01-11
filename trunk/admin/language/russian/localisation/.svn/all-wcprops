@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/unglud/OpenCart-Russian-Language.git/!svn/ver/5/trunk/admin/language/russian/localisation
+END
+currency.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/unglud/OpenCart-Russian-Language.git/!svn/ver/1/trunk/admin/language/russian/localisation/currency.php
+END
+zone.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/unglud/OpenCart-Russian-Language.git/!svn/ver/1/trunk/admin/language/russian/localisation/zone.php
+END
+return_action.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/unglud/OpenCart-Russian-Language.git/!svn/ver/1/trunk/admin/language/russian/localisation/return_action.php
+END
+weight_class.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/unglud/OpenCart-Russian-Language.git/!svn/ver/5/trunk/admin/language/russian/localisation/weight_class.php
+END
+order_status.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/unglud/OpenCart-Russian-Language.git/!svn/ver/1/trunk/admin/language/russian/localisation/order_status.php
+END
+tax_class.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/unglud/OpenCart-Russian-Language.git/!svn/ver/1/trunk/admin/language/russian/localisation/tax_class.php
+END
+return_status.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/unglud/OpenCart-Russian-Language.git/!svn/ver/1/trunk/admin/language/russian/localisation/return_status.php
+END
+country.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/unglud/OpenCart-Russian-Language.git/!svn/ver/1/trunk/admin/language/russian/localisation/country.php
+END
+language.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/unglud/OpenCart-Russian-Language.git/!svn/ver/1/trunk/admin/language/russian/localisation/language.php
+END
+geo_zone.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/unglud/OpenCart-Russian-Language.git/!svn/ver/1/trunk/admin/language/russian/localisation/geo_zone.php
+END
+length_class.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/unglud/OpenCart-Russian-Language.git/!svn/ver/1/trunk/admin/language/russian/localisation/length_class.php
+END
+return_reason.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/unglud/OpenCart-Russian-Language.git/!svn/ver/1/trunk/admin/language/russian/localisation/return_reason.php
+END
+stock_status.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/unglud/OpenCart-Russian-Language.git/!svn/ver/1/trunk/admin/language/russian/localisation/stock_status.php
+END

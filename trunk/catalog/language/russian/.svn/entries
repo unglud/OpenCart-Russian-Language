@@ -1,0 +1,98 @@
+10
+
+dir
+7
+https://unglud@github.com/unglud/OpenCart-Russian-Language.git/trunk/catalog/language/russian
+https://unglud@github.com/unglud/OpenCart-Russian-Language.git
+
+
+
+2011-11-30T07:57:19.000000Z
+7
+alexander.matrosov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0b0a9d0f-c8c7-dd8b-8758-ce57b7db7bff
+
+product
+dir
+
+shipping
+dir
+
+mail
+dir
+
+total
+dir
+
+checkout
+dir
+
+information
+dir
+
+module
+dir
+
+_notes
+dir
+
+common
+dir
+
+error
+dir
+
+russian.php
+file
+
+
+
+
+2012-01-10T22:04:39.000000Z
+62eeec5bc21fc9ee96ac30fa9c58dc03
+2011-11-30T07:57:19.000000Z
+3
+alexander.matrosov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2309
+
+account
+dir
+
+payment
+dir
+
