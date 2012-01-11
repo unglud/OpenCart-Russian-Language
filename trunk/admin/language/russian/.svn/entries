@@ -1,116 +1,0 @@
-10
-
-dir
-7
-https://unglud@github.com/unglud/OpenCart-Russian-Language.git/trunk/admin/language/russian
-https://unglud@github.com/unglud/OpenCart-Russian-Language.git
-
-
-
-2011-11-30T07:57:19.000000Z
-6
-alexander.matrosov
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-0b0a9d0f-c8c7-dd8b-8758-ce57b7db7bff
-
-shipping
-dir
-
-localisation
-dir
-
-mail
-dir
-
-total
-dir
-
-sale
-dir
-
-module
-dir
-
-_notes
-dir
-
-common
-dir
-
-error
-dir
-
-feed
-dir
-
-design
-dir
-
-catalog
-dir
-
-russian.php
-file
-
-
-
-
-2012-01-10T22:04:39.000000Z
-514f735aea1ef6ba934d3a5122910e0f
-2011-11-30T07:57:19.000000Z
-6
-alexander.matrosov
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5651
-
-report
-dir
-
-extension
-dir
-
-setting
-dir
-
-payment
-dir
-
-tool
-dir
-
-user
-dir
-
