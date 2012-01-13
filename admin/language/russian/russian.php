@@ -92,9 +92,9 @@ $_['tab_payment']             = 'Адрес оплаты';
 $_['tab_product']             = 'Товары';
 $_['tab_return']              = 'Детали возврата';
 $_['tab_return_history']      = 'История возвратов';
-$_['tab_reward']              = 'Награды';
+$_['tab_reward']              = 'Баллы';
 $_['tab_shipping']            = 'Адрес доставки';
-$_['tab_transaction']         = 'Покупки';
+$_['tab_transaction']         = 'Виртуальный счет';
 $_['tab_voucher_history']     = 'История сертификатов';
 
 // Error
