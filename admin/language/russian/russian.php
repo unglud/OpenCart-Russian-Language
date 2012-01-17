@@ -43,6 +43,7 @@ $_['button_remove']           = 'Удалить';
 $_['button_backup']           = 'Бэкап';
 $_['button_restore']          = 'Восстановить';
 $_['button_upload']           = 'Загрузить';
+$_['button_submit']           = 'Отправить';
 $_['button_invoice']          = 'Счет-фактура';
 $_['button_add_address']      = 'Добавить адрес';
 $_['button_add_attribute']    = 'Добавить атрибут';
