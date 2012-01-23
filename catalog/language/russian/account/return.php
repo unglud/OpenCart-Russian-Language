@@ -4,35 +4,34 @@ $_['heading_title']      = 'Возвраты';
 
 // Text
 $_['text_account']       = 'Профиль';
-$_['text_return']        = 'Return Information';
-$_['text_description']   = '<p>Please complete the form below to request an RMA number.</p>';
-$_['text_order']         = 'Order Information';
-$_['text_product']       = 'Product Information &amp; Reason for Return';
-$_['text_additional']    = 'Additional Information';
-$_['text_message']       = '<p>Thank you for submitting your return request. Your request has been sent to the relevant department for processing.</p><p> You will be notified via e-mail as to the status of your request.</p>';
-$_['text_return_id']     = 'Return ID:';
-$_['text_order_id']      = 'Order ID:';
-$_['text_date_ordered']  = 'Order Date:';
-$_['text_status']        = 'Status:';
-$_['text_date_added']    = 'Date Added:';
-$_['text_customer']      = 'Customer:';
-$_['text_comment']       = 'Return Comments';
-$_['text_products']      = 'Products:';
-$_['text_history']       = 'Return History';
+$_['text_return']        = 'Информация о возврате';
+$_['text_return_detail'] = 'Детали возврата';
+$_['text_description']   = '<p>Пожалуйста, заполните форму ниже, чтобы запросить номер возврата.</p>';
+$_['text_order']         = 'Информация о заказе';
+$_['text_product']       = 'Информация о товаре и причины возврата';
+$_['text_message']       = '<p>Спасибо за запрос возврата. Ваш запрос выслан в отдел по работе с клиентами для обработки.</p><p> О статусе вашего запроса вы будете уведомлены по электронной почте.</p>';
+$_['text_return_id']     = 'Номер возврата:';
+$_['text_order_id']      = 'Номер заказа:';
+$_['text_date_ordered']  = 'Дата заказа:';
+$_['text_status']        = 'Статус:';
+$_['text_date_added']    = 'Дата добавления:';
+$_['text_customer']      = 'Покупатель:';
+$_['text_comment']       = 'Комментарии о возврате';
+$_['text_history']       = 'История возврата';
 $_['text_empty']         = 'У вас нет возвратов!';
-$_['text_error']         = 'The returns you requested could not be found!';
+$_['text_error']         = 'Возвраты не найдены!';
 
 // Column
-$_['column_name']        = 'Product Name';
-$_['column_model']       = 'Model';
-$_['column_quantity']    = 'Quantity';
-$_['column_price']       = 'Price';
-$_['column_opened']      = 'Opened';
-$_['column_comment']     = 'Comment';
-$_['column_reason']      = 'Reason';
-$_['column_action']      = 'Action';
-$_['column_date_added']  = 'Date Added';
-$_['column_status']      = 'Status';
+$_['column_product']     = 'Название товара';
+$_['column_model']       = 'Модель';
+$_['column_quantity']    = 'Количество';
+$_['column_price']       = 'Цена';
+$_['column_opened']      = 'Открыто';
+$_['column_comment']     = 'Комментарий';
+$_['column_reason']      = 'Причина';
+$_['column_action']      = 'Действие';
+$_['column_date_added']  = 'Дата добавления';
+$_['column_status']      = 'Статус';
 
 // Entry
 $_['entry_order_id']     = 'Order ID:';

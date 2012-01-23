@@ -13,7 +13,7 @@ $_['column_name']       = 'Название сертификата';
 $_['column_code']       = 'Код';
 $_['column_from']       = 'От кого';
 $_['column_to']         = 'Кому';
-$_['column_amount']     = 'Количество';
+$_['column_amount']     = 'Сумма';
 $_['column_theme']      = 'Тема';
 $_['column_date_added'] = 'Дата добавления';
 $_['column_status']     = 'Статус';
@@ -28,7 +28,7 @@ $_['entry_from_email']  = 'Email отправителя:';
 $_['entry_to_name']     = 'Имя получателя:';
 $_['entry_to_email']    = 'Email получателя:';
 $_['entry_message']     = 'Сообщение:';
-$_['entry_amount']      = 'Количество:';
+$_['entry_amount']      = 'Сумма:';
 $_['entry_theme']       = 'Тема:';
 $_['entry_status']      = 'Статус:';
 
@@ -40,4 +40,5 @@ $_['error_to_name']     = 'Recipient\'s Name must be between 1 and 64 characters
 $_['error_from_name']   = 'Your Name must be between 1 and 64 characters!';
 $_['error_email']       = 'E-Mail Address does not appear to be valid!';
 $_['error_amount']      = 'Amount must be greater than or equal to 1!';
+$_['error_order']       = 'Warning: This voucher cannot be deleted as it is part of an <a href="%s">order</a>!';
 ?>
