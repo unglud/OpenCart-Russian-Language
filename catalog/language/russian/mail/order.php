@@ -1,12 +1,11 @@
 <?php
 // Text
 $_['text_new_subject']          = '%s - Заказ %s';
-$_['text_new_order_client']          = 'Заказчик:';
 $_['text_new_greeting']         = 'Спасибо за проявленный интерес к товарам %s. Ваш заказ получен и будет обработан в течение нескольких минут.';
 $_['text_new_received']         = 'Поступил новый заказ.';
 $_['text_new_link']             = 'Чтобы просмотреть детали заказа, пройдите по ссылке ниже:';
 $_['text_new_order_detail']     = 'Детали заказа';
-$_['text_new_invoice_no']       = 'Счет №.:';
+$_['text_new_instruction']      = 'Инструкции';
 $_['text_new_order_id']         = 'Номер заказа:';
 $_['text_new_date_added']       = 'Дата заказа:';
 $_['text_new_order_status']     = 'Статус заказа:';
@@ -24,7 +23,8 @@ $_['text_new_quantity']         = 'Количество';
 $_['text_new_price']            = 'Цена';
 $_['text_new_order_total']      = 'Итоговые суммы';	
 $_['text_new_total']            = 'Сумма';	
-$_['text_new_download']         = 'Once your payment has been confirmed you can click on the link below to access your downloadable products:';
+$_['text_for']                  = '%s подарочный сертификат для %s';	
+$_['text_new_download']         = 'Как только ваша оплата будет подтверждена, вы сможете скачать ваш товар по ссылке ниже:';
 $_['text_new_comment']          = 'Комментарии к заказу:';
 $_['text_new_footer']           = 'Пожалуйста, ответьте на это письмо, если у вас возникли какие-либо вопросы.';
 $_['text_new_powered']          = 'Всего наилучшего!';

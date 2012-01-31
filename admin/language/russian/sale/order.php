@@ -62,6 +62,7 @@ $_['text_credit_add']         = 'Добавить виртуальные ден�
 $_['text_credit_added']       = 'Виртуальные деньги успешно добавлены!';
 $_['text_credit_remove']      = 'Убрать виртуальные деньги';
 $_['text_credit_removed']     = 'Виртуальные деньги успешно убраны!';
+$_['text_for']                                = '%s подарочный сертификат для %s';
 $_['text_upload']             = 'Файл успешно загружен!';
 $_['text_country_match']                      = 'Country Match:<br /><span class="help">Whether country of IP address matches billing address country (mismatch = higher risk).</span>';
 $_['text_country_code']                       = 'Country Code:<br /><span class="help">Country Code of the IP address.</span>';

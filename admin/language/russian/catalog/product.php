@@ -30,7 +30,7 @@ $_['entry_meta_keyword'] 	 = 'Ключевые слова (meta - keywords):';
 $_['entry_meta_description'] = 'Описание (meta - description):';
 $_['entry_description']      = 'Описание:';
 $_['entry_store']            = 'Магазины:';
-$_['entry_keyword']          = 'Псевдоним:';
+$_['entry_keyword']          = 'Псевдоним:<br /><span class="help">Псевдоним должен быть уникальным. Используйте только английские символы. Все знаки препинания и пробелы должны быть заменены на тире.</span>';
 $_['entry_model']            = 'Модель:<span class="help">Второе название товара</span>';
 $_['entry_sku']              = 'Единица учета складских запасов (SKU):';
 $_['entry_upc']              = 'UPC:';

@@ -1,10 +1,11 @@
 <?php
 // Text
+$_['text_for']          = '%s подарочный сертификат для %s';
 $_['text_success']   = 'Ваш заказ успешно обработан!';
 
 // Error
-$_['error_warning']     = 'Warning: Please check the form carefully for errors!';
-$_['error_permission']  = 'You do not have permission to access this page, please refer to your system administrator.';
+$_['error_warning']     = 'Ошибка: Пожалуйста, проверьте форму еще раз!';
+$_['error_permission']  = 'У вас не достаточно прав, для доступа к этой странице.';
 $_['error_customer']    = 'Warning: Can not find selected customer!';
 $_['error_firstname']   = 'First Name must be between 1 and 32 characters!';
 $_['error_lastname']    = 'Last Name must be between 1 and 32 characters!';
@@ -30,7 +31,5 @@ $_['error_points']    = 'Warning: You don\'t have %s reward points!';
 $_['error_maximum']   = 'Warning: The maximum number of points that can be applied is %s!';
 $_['error_to_name']   = 'Recipient\'s Name must be between 1 and 64 characters!';
 $_['error_from_name'] = 'Your Name must be between 1 and 64 characters!';
-$_['error_email']     = 'E-Mail Address does not appear to be valid!';
 $_['error_amount']    = 'Amount must be between %s and %s!';
-$_['error_theme']     = 'You must select a theme!';
 ?>
