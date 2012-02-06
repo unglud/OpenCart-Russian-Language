@@ -49,6 +49,7 @@ $_['button_add_address']      = 'Добавить адрес';
 $_['button_add_attribute']    = 'Добавить атрибут';
 $_['button_add_banner']       = 'Добавить баннер';
 $_['button_add_product']      = 'Добавить продукт';
+$_['button_add_voucher']      = 'Добавить купон';
 $_['button_add_option']       = 'Добавить опцию';
 $_['button_add_option_value'] = 'Добавить значение опции';
 $_['button_add_discount']     = 'Добавить скидку';
@@ -90,12 +91,14 @@ $_['tab_module']              = 'Модуль';
 $_['tab_order']               = 'Детали заказа';
 $_['tab_order_history']       = 'История заказа';
 $_['tab_payment']             = 'Адрес оплаты';
-$_['tab_product']             = 'Товар';
+$_['tab_product']             = 'Товары';
 $_['tab_return']              = 'Детали возврата';
 $_['tab_return_history']      = 'История возвратов';
 $_['tab_reward']              = 'Баллы';
 $_['tab_shipping']            = 'Адрес доставки';
+$_['tab_total']               = 'Сумма';
 $_['tab_transaction']         = 'Виртуальный счет';
+$_['tab_voucher']             = 'Купоны';
 $_['tab_voucher_history']     = 'История сертификатов';
 
 // Error
