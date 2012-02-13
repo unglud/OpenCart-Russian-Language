@@ -1,13 +1,13 @@
 <?php
 // Text
 $_['text_for']          = '%s подарочный сертификат для %s';
-$_['text_success']   = 'Ваш заказ успешно обработан!';
+$_['text_success']   = 'Заказ успешно пересчитан!';
 
 // Error
 $_['error_warning']     = 'Ошибка: Пожалуйста, проверьте форму еще раз!';
 $_['error_permission']  = 'У вас не достаточно прав, для доступа к этой странице.';
 $_['error_customer']    = 'Ошибка: Выбранный покупатель не найден!';
-$_['error_email']       = 'E-Mail Address does not appear to be valid!';
+$_['error_email']       = 'Email введен не корректно!';
 $_['error_postcode']    = 'Postcode must be between 2 and 10 characters!';
 $_['error_country']     = 'Please select a country!';
 $_['error_zone']        = 'Please select a region / state!';
@@ -23,7 +23,4 @@ $_['error_voucher']   = 'Warning: Gift Voucher is either invalid or the balance 
 $_['error_reward']    = 'Warning: Please enter the amount of reward points to use!';	
 $_['error_points']    = 'Warning: You don\'t have %s reward points!';
 $_['error_maximum']   = 'Warning: The maximum number of points that can be applied is %s!';
-$_['error_to_name']   = 'Recipient\'s Name must be between 1 and 64 characters!';
-$_['error_from_name'] = 'Your Name must be between 1 and 64 characters!';
-$_['error_amount']    = 'Amount must be between %s and %s!';
 ?>
