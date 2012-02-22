@@ -49,7 +49,7 @@ $_['button_add_address']      = 'Добавить адрес';
 $_['button_add_attribute']    = 'Добавить атрибут';
 $_['button_add_banner']       = 'Добавить баннер';
 $_['button_add_product']      = 'Добавить продукт';
-$_['button_add_voucher']      = 'Добавить купон';
+$_['button_add_voucher']      = 'Добавить сертификат';
 $_['button_add_option']       = 'Добавить опцию';
 $_['button_add_option_value'] = 'Добавить значение опции';
 $_['button_add_discount']     = 'Добавить скидку';
@@ -64,7 +64,7 @@ $_['button_add_route']        = 'Добавить путь';
 $_['button_add_rule' ]        = 'Добавить правило';
 $_['button_add_module']       = 'Добавить модуль';
 $_['button_add_link']         = 'Добавить ссылку';
-$_['button_update_total']     = 'Обновить суммы';
+$_['button_update_total']     = 'Обновить сумму';
 $_['button_approve']          = 'Активировать';
 $_['button_reset']            = 'Сброс';
 
@@ -99,7 +99,7 @@ $_['tab_reward']              = 'Баллы';
 $_['tab_shipping']            = 'Адрес доставки';
 $_['tab_total']               = 'Сумма';
 $_['tab_transaction']         = 'Виртуальный счет';
-$_['tab_voucher']             = 'Купоны';
+$_['tab_voucher']             = 'Подарочный сертификат';
 $_['tab_voucher_history']     = 'История сертификатов';
 
 // Error
