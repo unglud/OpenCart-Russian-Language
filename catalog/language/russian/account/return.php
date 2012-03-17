@@ -34,29 +34,28 @@ $_['column_date_added']  = 'Дата добавления';
 $_['column_status']      = 'Статус';
 
 // Entry
-$_['entry_order_id']     = 'Order ID:';
-$_['entry_date_ordered'] = 'Order Date:';
-$_['entry_firstname']    = 'First Name:';
-$_['entry_lastname']     = 'Last Name:';
-$_['entry_email']        = 'E-Mail:';
-$_['entry_telephone']    = 'Telephone:';
-$_['entry_product']      = 'Product Name:';
-$_['entry_model']        = 'Product Code:';
-$_['entry_quantity']     = 'Quantity:';
-$_['entry_reason']       = 'Reason for Return:';
-$_['entry_opened']       = 'Product is opened:';
-$_['entry_fault_detail'] = 'Faulty or other details:';
-$_['entry_captcha']      = 'Enter the code in the box below:';
+$_['entry_order_id'] = '№ заказа:';
+$_['entry_date_ordered'] = 'Дата заказа:';
+$_['entry_firstname'] = 'Ваше имя:';
+$_['entry_lastname'] = 'Ваша фамилия:';
+$_['entry_email'] = 'Email:';
+$_['entry_telephone'] = 'Телефон:';
+$_['entry_product'] = 'Название товара:';
+$_['entry_model'] = 'Код товара:';
+$_['entry_quantity'] = 'Количество:';
+$_['entry_reason'] = 'Причина возврата:';
+$_['entry_opened'] = 'Товар вскрыт:';
+$_['entry_fault_detail'] = 'Поврежденный или другое:';
+$_['entry_captcha'] = 'Введите код, указанный на картинке:';
 
 // Error
-$_['error_order_id']     = 'Order ID required!';
-$_['error_firstname']    = 'First Name must be between 1 and 32 characters!';
-$_['error_lastname']     = 'Last Name must be between 1 and 32 characters!';
-$_['error_email']        = 'E-Mail Address does not appear to be valid!';
-$_['error_telephone']    = 'Telephone must be between 3 and 32 characters!';
-$_['error_product']      = 'You must select at least one product!';
-$_['error_name']         = 'Product Name must be greater than 3 and less than 255 characters!';
-$_['error_model']        = 'Product Model must be greater than 3 and less than 64 characters!';
-$_['error_reason']       = 'You must select at a return product reason!';
-$_['error_captcha']      = 'Verification code does not match the image!';
+$_['error_order_id'] = 'Необходимо ввести № заказа!';
+$_['error_firstname'] = 'Имя должно содержать от 1 до 32 символов!';
+$_['error_lastname'] = 'Фамилия должна содержать от 1 до 32 символов!';
+$_['error_email'] = 'Некорректный Email адрес!';
+$_['error_telephone'] = 'Телефон должен содержать от 3 до 32 символов';
+$_['error_product'] = 'Вы должны выбрать хотя бы один продукт!';
+$_['error_model'] = 'Модель товара должна содержать от 3 до 64 символов!';
+$_['error_reason'] = 'Вы должны выбрать причину возврата товара!';
+$_['error_captcha'] = 'Код с картинки введен неверно!';
 ?>
