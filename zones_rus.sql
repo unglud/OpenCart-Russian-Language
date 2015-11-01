@@ -1,3 +1,5 @@
+DELETE FROM `zone` WHERE `name` = 'Gomo-Altaysk'; --Удаление несуществующего города
+
 UPDATE `country` SET `name`='Россия' WHERE `name`='Russian Federation';
 
 UPDATE `zone` SET `name`='Абакан' WHERE `name`='Abakan';
