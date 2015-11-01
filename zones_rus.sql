@@ -16,7 +16,6 @@ UPDATE `zone` SET `name`='Черкесск' WHERE `name`='Cherkessk';
 UPDATE `zone` SET `name`='Чита' WHERE `name`='Chita';
 UPDATE `zone` SET `name`='Дудинка' WHERE `name`='Dudinka';
 UPDATE `zone` SET `name`='Елиста' WHERE `name`='Elista';
-UPDATE `zone` SET `name`='Гомо-Алтайск' WHERE `name`='Gomo-Altaysk';
 UPDATE `zone` SET `name`='Горно-Алтайск' WHERE `name`='Gorno-Altaysk';
 UPDATE `zone` SET `name`='Грозный' WHERE `name`='Groznyy';
 UPDATE `zone` SET `name`='Иркутск' WHERE `name`='Irkutsk';
